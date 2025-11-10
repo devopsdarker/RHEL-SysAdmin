@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b986144d7cafac8c",
+        "id": "aa5ef7d2d1f9eb71",
         "type": "tabs",
         "children": [
           {
-            "id": "e24b8a5471a6b10f",
+            "id": "dc22e4a6fbd2bd8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,12 +169,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "e24b8a5471a6b10f",
+  "active": "dc22e4a6fbd2bd8b",
   "lastOpenFiles": [
+    "01 - Системный администратор RHEL/00 - Навигация.md",
+    "01 - Системный администратор RHEL/05 - Пути и директории.md",
     "01 - Системный администратор RHEL/03 - О файловых системах.md",
     "01 - Системный администратор RHEL/04 - Текстовый интерфейс пользователя.md",
-    "01 - Системный администратор RHEL/05 - Пути и директории.md",
-    "01 - Системный администратор RHEL/00 - Навигация.md",
+    "Hyprland.md",
     "00 - Caches/Screenshot From 2025-11-07 16-24-59.png",
     "00 - Caches/Screenshot From 2025-11-07 16-21-43.png",
     "00 - Caches/Screenshot From 2025-11-07 16-15-59.png",
@@ -206,7 +207,6 @@
     "02 - Разное/метаданные хранятся в инодах.md",
     "01 - Системный администратор RHEL/02 - Виртуализация.md",
     "02 - Разное/инодами.md",
-    "02 - Разное/метаданными.md",
     "02 - Разное",
     "00 - Caches",
     "Системный администратор RHEL/01 - Operating systems and Linux",
